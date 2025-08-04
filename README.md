@@ -31,18 +31,13 @@ Here are some ideas to get you started:
 ### 🧠 Projects I'm Proud Of
 | Project | Description | Tech |
 |--------|-------------|------|
-| **Portfolio Website** | Personal responsive website | HTML, CSS, JS, React |
-| **Blog App** | Full-stack blog with login & comments | React, Node.js, MySQL |
-| **To-Do App** | Simple CRUD To-Do List | JavaScript, LocalStorage |
-| **Student Management System** | Java GUI + MySQL backend | Java, Swing, MySQL |
-
-### 📈 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical)
+| **Online Yoga & Home Remedies** | Online Yoga Classes with e-commerce products | Java, MySQL, Html, Css, Js, Bootstrap|
+| **Restaurant Webpage** | Simple Cafe Webpage with menu options | Html, Css, JavaScript |
 
 
 
 ### 💬 Let's Connect!
-[LinkedIn]www.linkedin.com/in/vinayak-koli-3baa5724a
+LinkedIn  : www.linkedin.com/in/vinayak-koli-3baa5724a
 
 ---
 
