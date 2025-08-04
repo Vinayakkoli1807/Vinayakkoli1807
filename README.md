@@ -47,9 +47,15 @@ LinkedIn  : www.linkedin.com/in/vinayak-koli-3baa5724a
 
 - 🌱 I’m currently learning **DSA in Java**
 
-- 💬 Ask me about **Java,Python,MySQL**
+- 💬 Ask me about **Java, Python, MySQL**
 
 - 📫 How to reach me **kolivinayak977@gmail.com**
+- 
+- ### 🧠 Projects I'm Proud Of
+| Project | Description | Tech |
+|--------|-------------|------|
+| **Online Yoga & Home Remedies** | Online Yoga Classes with Online Products | Java, MySQL, Html, Css, Js, Bootstrap|
+| **Restaurant Webpage** | Simple Cafe Webpage with menu options | Html, Css, JavaScript |
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
