@@ -54,7 +54,7 @@ LinkedIn  : www.linkedin.com/in/vinayak-koli-3baa5724a
 - ### 🧠 Projects 
 | Project | Description | Tech |
 |--------|-------------|------|
-| **Online Yoga & Home Remedies** | Online Yoga Classes with Online Products | Java, MySQL, Html, Css, Js, Bootstrap|
+| **Online Yoga & Home Remedies** | This website provides users online Yoga Classes with subscription feature. And also it provide Online Yoga Products( like e-commerce )to the users. | Java, MySQL, Html, Css, Js, Bootstrap|
 | **Restaurant Webpage** | Simple Cafe Webpage with menu options | Html, Css, JavaScript |
 
 <h3 align="left">Connect with me:</h3>
