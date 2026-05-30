@@ -45,15 +45,18 @@ LinkedIn  : www.linkedin.com/in/vinayak-koli-3baa5724a
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vinayakkoli1807" alt="vinayakkoli1807" /></a> </p>
 
-- 🌱 I’m currently learning **DSA in Java**
+- 🌱 I’m currently learning **Data Science**
 
-- 💬 Ask me about **Java, Python, MySQL**
+- 💬 Ask me about **Python, Java, MYSQL, Power-BI, Excel, NumPy, Pandas**
 
 - 📫 How to reach me **kolivinayak977@gmail.com**
   
 - ### 🧠 Projects 
 | Project | Description | Tech |
 |--------|-------------|------|
+| **BHEL Stock Analysis** | - Analyzes BHEL's stock price trends and trading behavior over time.
+- Identified patterns in daily price changes, volatility, and trading volume.
+- Developed insights through advanced calculations and visualizations. |Power-BI|
 | **Online Yoga & Home Remedies** | This website provides users online Yoga Classes with subscription feature. And also it provide Online Yoga Products( like e-commerce )to the users. | Java, MySQL, Html, Css, Js, Bootstrap|
 | **Restaurant Webpage** | Simple Cafe Webpage with menu options | Html, Css, JavaScript |
 
