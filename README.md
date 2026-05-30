@@ -54,7 +54,8 @@ LinkedIn  : www.linkedin.com/in/vinayak-koli-3baa5724a
 - ### 🧠 Projects 
 | Project | Description | Tech |
 |--------|-------------|------|
-| **BHEL Stock Analysis** | - Analyzes BHEL's stock price trends and trading behavior over time.Identified patterns in daily price changes, volatility, and trading volume. Developed insights through advanced calculations and visualizations. |Power-BI|
+| **BHEL Stock Analysis** |Analyzes BHEL's stock price trends and trading behavior over time. Identified patterns in daily price changes, volatility, and trading volume. Developed insights through advanced calculations and visualizations. | Power-BI, Excel|
+| **Electric Vehicle Charge & Range Analysis** | An interactive Tableau dashboard that analyzes electric vehicle charging performance, battery capacity, and driving range to uncover trends and support data-driven insights. | Tableau |
 | **Online Yoga & Home Remedies** | This website provides users online Yoga Classes with subscription feature. And also it provide Online Yoga Products( like e-commerce )to the users. | Java, MySQL, Html, Css, Js, Bootstrap|
 | **Restaurant Webpage** | Simple Cafe Webpage with menu options | Html, Css, JavaScript |
 
