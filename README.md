@@ -54,6 +54,7 @@ LinkedIn  : www.linkedin.com/in/vinayak-koli-3baa5724a
 - ### 🧠 Projects 
 | Project | Description | Tech |
 |--------|-------------|------|
+| **Superstore Sales Analysis** |End-to-End Sales Analysis project using Excel, SQL, and Power BI to clean, analyze, and visualize retail sales data, providing actionable business insights through interactive dashboards.. | Excel, SQL, Power-BI|
 | **Customer Churn Prediction & Retention Analysis Dashboard** |Customer Churn Analysis Dashboard using Power BI, Power Query, and DAX to identify churn patterns, customer behavior, and retention opportunities. | Power-BI, Excel|
 | **BHEL Stock Analysis** |Analyzes BHEL's stock price trends and trading behavior over time. Identified patterns in daily price changes, volatility, and trading volume. Developed insights through advanced calculations and visualizations. | Power-BI, Excel|
 | **Electric Vehicle Charge & Range Analysis** | An interactive Tableau dashboard that analyzes electric vehicle charging performance, battery capacity, and driving range to uncover trends and support data-driven insights. | Tableau |
