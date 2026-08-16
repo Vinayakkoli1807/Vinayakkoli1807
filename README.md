@@ -1,7 +1,7 @@
-# Hi there, I'm Vinayak 👋
+# Hi there, I'm VINAYAK 👋
 
 🎓 Pursuing MCA @ SBUP with rich interest in Data Science and Analytics.<br>
-Presently Learning RAG, LLMs & Generative AI🤖
+Exploring RAG, LLMs & Generative AI 🤖
 
 
 ## 🌐 Socials:
